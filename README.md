@@ -26,6 +26,7 @@ https://github.com/BinduVerma123/Attendance_face
 - [Bindu Verma](https://github.com/BinduVerma123)
 - [Shreyansh Sahu](https://github.com/23nobody)
 - [Mrigyen Sawant](https://github.com/Mrigyen)
+- [Aditya Kumar](https://github.com/mradityaroy)
 
 __Data Base maintained at__
 https://console.firebase.google.com/u/0/project/face-attendence/database/face-attendence/data/
